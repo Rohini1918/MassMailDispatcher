@@ -62,13 +62,13 @@ The Mass Mail Dispatcher project uses the following dependencies:
  ⫸ The project has undergone unit testing and integration testing to ensure that it meets all the requirements set out in the initial proposal.
 
 ---------------------------------------------------------------------------------------------
-Project By - " A M A N _ V I J A Y _ K A D A M "
+Project By - "Malipatel Rohini"
 
 @ E X P O S Y S _ D A T A _ L A B S
 
 @ W E B _ D E V E L O P M E N T
 
-@ 2 2 / 0 2 / 2 0 2 3
+@ 2 2 / 0 9 / 2 0 2 2
 
 
 ==============================================================================================
